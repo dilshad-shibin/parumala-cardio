@@ -1300,6 +1300,7 @@ a,
     color: #000;
     display: flex;
     margin-bottom: 5px;
+    font-family: 'DM Sans', sans-serif;
 }
 
 .dpt-box2 ul li .img-dtb{
@@ -1313,7 +1314,7 @@ a,
 
 .dpt-box2,
 .dpt-box3{
-    min-height: 450px;
+    min-height: 380px;
 }
 
 .appointment-btn{
